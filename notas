@@ -3,3 +3,9 @@
 * É possível bloquear um objeto para nao ser alterado (final) com "Object.freeze". Pode-se verificar se um objeto esta congelado com "Object.isFreozen(x)"
 
 * No ECMA6 não usar mais o "var" e sim o "let". Uma váriavel declarada com "var" não tem scopo. Nem se quer de bloc! Podendo ser usada mesmo fora do escopo em que foi criada. Ja com "let" não!
+
+* typeof é uma funcção nativa capaz de retornar o tipo do elemtento/var/objeto
+
+* Operador spread (...) tem a capacidade de desmembrar um array (func(...array))
+
+* Arrow function ( => ) é o equivalente ao lambda do java (->)
